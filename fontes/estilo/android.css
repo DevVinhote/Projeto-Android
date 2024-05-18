@@ -2,9 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
-@font-face {
-    font-family: "android";
-    src: url('fontes/Android.ttf');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');;
 }
 
 :root {
@@ -17,7 +15,7 @@
 
     --font-padrão: Arial, Verdana, Helvetica, sans-serif;
     --font-destaque: "Bebas Neue", sans-serif;
-    --font-Android: "android", sans-serif;
+    --font-Android: "Quantico", sans-serif;
 }
 
 * {
